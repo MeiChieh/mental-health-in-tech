@@ -1,12 +1,6 @@
-import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
-import matplotlib.ticker as ticker
-import seaborn as sns
 from termcolor import cprint
-import sqlite3
 import pycountry_convert as pc
-from collections import Counter
 from wordcloud import WordCloud
 import os
 
