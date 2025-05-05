@@ -1,0 +1,7 @@
+numpy
+seaborn
+matplotlib
+pandas
+termcolor
+pycountry-convert
+wordcloud
