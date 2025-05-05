@@ -46,7 +46,6 @@ The analysis uses the [Mental Health in Tech Survey Dataset](https://www.kaggle.
 ├── mental_health.sqlite   # SQLite database containing the survey data
 ├── requirements.txt       # Python package requirements
 ├── Pipfile               # Pipenv dependencies
-├── Pipfile.lock          # Pipenv lock file
 ├── helpers/              # Helper functions and utilities
 │   ├── helper_function.py # Custom helper functions
 │   ├── stopwords.txt     # Stopwords for text analysis
