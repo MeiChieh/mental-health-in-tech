@@ -16,7 +16,7 @@ The analysis uses the [Mental Health in Tech Survey Dataset](https://www.kaggle.
 
 ## 📗 Analysis Notebook
 
-[Notebook 📚](nb link)
+[project.ipynb](https://github.com/MeiChieh/mental-health-in-tech/blob/main/project.ipynb)
 
 ## ⭐ Key Findings
 
